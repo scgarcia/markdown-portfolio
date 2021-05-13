@@ -1,1 +1,21 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills and Attributes
+
+Below is a list of my technical skills and attributes
+
+## Programming Languages
+- Java
+- Javascript
+- VBScript
+- PHP
+- Python
+
+## Collaboration
+- Git
+- Github
+- Bitbucket
+- Jenkins
+
+## Test Automation
+- Mabl
+- TestComplete
+- TestProject
